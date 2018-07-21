@@ -108,5 +108,18 @@ button {
 }
 
 .footer {
-    background: #273b47
+    background: #273b47;
+}
+
+.contacto img {
+    display: block;
+}
+
+.contacto strong {
+    display: block;
+}
+
+.contacto a {
+    color: white;
+    text-decoration: none;
 }
